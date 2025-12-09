@@ -43,9 +43,6 @@
 ![Alembic](https://img.shields.io/badge/Alembic-00A0DC?style=for-the-badge&logo=alembic&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MikhailKlidzhan&layout=compact&theme=radical)
 
 ### 🚀 Featured Projects
 
